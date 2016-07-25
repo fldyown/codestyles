@@ -77,6 +77,7 @@
     </option>
   </AndroidXmlCodeStyleSettings>
   <JavaCodeStyleSettings>
+    <option name="DO_NOT_WRAP_AFTER_SINGLE_ANNOTATION" value="true" />
     <option name="ANNOTATION_PARAMETER_WRAP" value="1" />
     <option name="CLASS_NAMES_IN_JAVADOC" value="3" />
   </JavaCodeStyleSettings>
@@ -211,9 +212,7 @@
     <option name="IF_BRACE_FORCE" value="1" />
     <option name="DOWHILE_BRACE_FORCE" value="1" />
     <option name="WHILE_BRACE_FORCE" value="1" />
-    <option name="METHOD_ANNOTATION_WRAP" value="1" />
     <option name="CLASS_ANNOTATION_WRAP" value="1" />
-    <option name="FIELD_ANNOTATION_WRAP" value="1" />
     <option name="PARAMETER_ANNOTATION_WRAP" value="1" />
     <option name="VARIABLE_ANNOTATION_WRAP" value="1" />
     <option name="PARENT_SETTINGS_INSTALLED" value="true" />
